@@ -1,0 +1,2 @@
+# Auto_Py_To_Exe_Instructions
+This is some instructions I made on how to turn a Python script (.py) I made (see [Custom_Python_Clock_-_Date_and_Time]( https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/README.md)) into a single executable file (.exe). With this you can turn a Python script into a program that can be ran on any Windows computer (and apparently Mac OS) without the need to install any dependencies to run it. 
