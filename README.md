@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54961082/159799467-beb3caa5-e429-48c1-a461-425e41894f12.PNG"/>
+  <img src="https://user-images.githubusercontent.com/54961082/159810317-d09a3a2e-adf8-4e18-abd7-d1a910bb60ef.jpg"/>
 </p>
+
 <h1 align="center">
   Auto .py To .exe Instructions
 </h1>
