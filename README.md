@@ -10,9 +10,9 @@ One final thing that separates this and the [Custom_Python_Clock_-_Date_and_Time
 
 ## 
 ### Files
-[Clock_white_sitting.py](https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/Clock_white_sitting.py): Code file.<br />
-[futurama_audience_500x287.png](https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/futurama_audience_500x287.png): Picture used as background.<br />
-[futurama_audience_500x287_PZh_icon.ico](https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/futurama_audience_500x287_PZh_icon.ico): Icon file.<br />
+[Clock_white_sitting.py](https://github.com/dbmitch84/Auto_Py_To_Exe_Instructions/blob/main/Clock_white_sitting.py): Code file.<br />
+[futurama_audience_500x287.png](https://github.com/dbmitch84/Auto_Py_To_Exe_Instructions/blob/main/futurama_audience_500x287.png): Picture used as background.<br />
+[futurama_audience_500x287_PZh_icon.ico](https://github.com/dbmitch84/Auto_Py_To_Exe_Instructions/blob/main/futurama_audience_500x287_PZh_icon.ico): Icon file.<br />
 ## 
 ### Programs Used
 [Portable Python 3](https://www.python.org/downloads/): Written in the Python language.<br />
