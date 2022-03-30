@@ -7,8 +7,8 @@
 
 ## 
 ### This Repository's Purpose
-This is some instructions I made on how to turn a Python script (.py) I made (see [Custom_Python_Clock_-_Date_and_Time]( https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/README.md)) into a single executable file (.exe). With this you can turn a Python script into a program that can be ran on any Windows computer (and apparently Mac OS) without the need to install any dependencies to run it.<br/>
-One final thing that separates this and the [Custom_Python_Clock_-_Date_and_Time]( https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/README.md) projects from other similar projects is the fact that it was all created and done using programs off of a thumbdrive. This was done in part to show that you can make things from almost anywhere, even without having administrator privileges  on the computer!<br/>
+These are some instructions I made on how to turn a Python script (.py) I made (see [Custom_Python_Clock_-_Date_and_Time]( https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/README.md)) into a single executable file (.exe). With this you can turn a Python script into a program that can be ran on any Windows computer (and apparently Mac OS) without the need to install any dependencies to run it.<br/>
+One final thing that separates this and the [Custom_Python_Clock_-_Date_and_Time]( https://github.com/dbmitch84/Custom_Python_Clock_-_Date_and_Time/blob/main/README.md) projects from other similar projects is the fact that it was all created and done using programs off of a thumbdrive. This was done in part to show that you can make things from almost anywhere
 
 ## 
 ### Files
